@@ -1,9 +1,9 @@
-Reproducibility Bibliography
-----------------------------
+# Reproducibility Bibliography
 
 This is a bibtex bibliography containing all references which the NCSA Reproducibility group have found which pertain to reproducibility in some way.
 
-# Rules for contribution
+Rules for contribution
+----------------------
 
 1. Please find official bibtex citations from the published sources. If you cannot find such an official bibtex citation, then you can write you own.
 2. Please use citation names which do not clash with other existing names. Search the bib before assigning your desired name to make sure.
